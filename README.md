@@ -3,7 +3,7 @@
 <br clear="both">
 <h1 align="left">Hello! 👋 Viewers 😃</h1>
   <h4>
-Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++ to sharpen my problem-solving skills and gain hands-on experience. Alongside, I have a strong foundation in C, C++, MySQL, and frontend technologies such as HTML, Tailwind CSS, JavaScript, and React.js. On the backend, I excel in Node.js, Express.js, MySQL, and MongoDB. I am also continuously expanding my expertise by delving into Machine Learning, staying committed to growing as a versatile and skilled developer.<br>
+Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++ to sharpen my problem-solving skills and gain hands-on experience. Alongside, I have a strong foundation in C, C++, MySQL, and frontend technologies such as HTML, Tailwind CSS, JavaScript, and React.js. On the backend, I excel in Node.js and Express.js. I am also continuously expanding my expertise by delving into Devops, staying committed to growing as a versatile and skilled developer.<br>
     
 <h1>💫 About Me :</h1> 
 <h4>I approach every challenge with a growth-oriented mindset, leveraging opportunities to expand my skills and broaden my expertise. My enthusiasm for coding, combined with my management capabilities, enables me to excel in dynamic, team-driven environments. Dedicated to lifelong learning and innovation, I aim to create a lasting, positive impact in the field of software development. </h4>
