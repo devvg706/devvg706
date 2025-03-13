@@ -202,10 +202,7 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## <h1> 👨‍💻 CodingNinjas </h1>
-<img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="codingninjas Badges"/> 
 
-###
 
 <h1 align="center">On the journey of career development, I view knowledge as my greatest accomplishment.</h1>
 
