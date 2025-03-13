@@ -85,6 +85,8 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" alt="linux logo" />
   <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="60" alt="linux logo"/>
+  <img width="50" />
           
 </div>
 
@@ -155,7 +157,7 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.naukri.com/code360/profile/ca2d765d-a5ea-497f-bdb0-1b3e8fdcae86" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="100" height="50" alt="hackerrank logo"  />
+    <img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width="100" height="50" alt="hackerrank logo"  />
   </a>
 </div>
 
