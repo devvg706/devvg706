@@ -202,8 +202,8 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## <h1> 👨‍💻 LeetCode </h1>
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/> -->
+## <h1> 👨‍💻 CodingNinjas </h1>
+<img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="codingninjas Badges"/> 
 
 ###
 
