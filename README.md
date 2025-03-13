@@ -80,8 +80,11 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="60" alt="github actions logo" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" alt="linux logo" />
+  <img width="50" />
           
 </div>
 
@@ -105,9 +108,13 @@ I am deeply engaged in mastering Data Structures and Algorithms (DSA) using C++ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="aws logo" />  
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="aws logo" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="60" alt="jenkins logo" />
+  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="60" alt="jenkins logo" />
+  <img width="50" />
           
           
           
